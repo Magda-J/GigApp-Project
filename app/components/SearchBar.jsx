@@ -77,8 +77,7 @@ const SearchBar = () => {
         } else {
           console.error('Invalid user location:', userLocation);
         }
-
-        // Code related to Ticketmaster removed
+        
       } else {
         console.error('No results found for the city:', city);
       }
@@ -107,7 +106,7 @@ const SearchBar = () => {
       </form>
 
       <button onClick={handleCurrentLocation} className='bg-black p-2 rounded-full border-4 border-solid border-teal-500 focus:outline-none' title='Use Current Location'>
-        <img src='/images/Logo white.png' alt="Logo" className="w-5 h-6" />
+        <img src='/assets/Logowhite.png' alt="Logo" className="w-5 h-6" />
       </button>
 
       <div className='mt-4'>
