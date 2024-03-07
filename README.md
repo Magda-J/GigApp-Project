@@ -3,7 +3,7 @@ Wireframes for the project: https://excalidraw.com/#room=16f58c084befeedacb6d,A-
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started  -  GigNite Landing Page Documentation
+## Getting Started  -  GigNite Documentation
 
 Welcome to GigNite! This documentation will guide you through the usage of our landing page, designed to provide users with an engaging experience and easy access to our platform's features.
 Prerequisites
